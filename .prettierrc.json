@@ -1,0 +1,22 @@
+{
+    "trailingComma": "all",
+    "tabWidth": 4,
+    "semi": true,
+    "singleQuote": true,
+    "importOrder": [
+        "^@heroicons/react/outline",
+        "^@heroicons/react/solid",
+        "^@core/(.*)$",
+        "^@server/(.*)$",
+        "^@ui/(.*)$",
+        "^@pages/(.*)$",
+        "^@components/common/(.*)$",
+        "^@components/(.*)$",
+        "^@hooks/(.*)$",
+        "^@utils/(.*)$",
+        "^@styles/(.*)$",
+        "^[./]"
+    ],
+    "importOrderSeparation": true,
+    "importOrderSortSpecifiers": true
+}
